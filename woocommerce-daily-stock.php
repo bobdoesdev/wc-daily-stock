@@ -1,7 +1,6 @@
 <?php
 /*
 Plugin Name:  WooCommerce Daily Stock
-Plugin URI:   http://digitaleel.com
 Description:  Add daily stock option for products that have a stock available daily for rent.
 Version:      1.0
 Author:       Bob O'Brien
